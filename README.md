@@ -7,17 +7,12 @@ My First Repository
 
 ![The Pursuit of Happyness](https://upload.wikimedia.org/wikipedia/en/8/81/Poster-pursuithappyness.jpg)
 
----
-
-## Key Themes
 
 | Theme            | Description                                                                |
 | ---------------- | -------------------------------------------------------------------------- |
 | **Perseverance** | Chris never gives up, even during the most challenging times.              |
 | **Fatherhood**   | Chris's deep commitment to his son drives him to keep pushing forward.     |
 | **Resilience**   | Despite facing eviction and homelessness, Chris remains focused on success.|
-
----
 
 ## Never Give Up
 A father and salesman is in **The Pursuit of Happiness** in this 2006 film starring Will Smith, Thandie Newton, and Jaden Smith. This is the real-life story of Chris Gardner, who was eking out a living selling bone density scanners while his wife (Newton) worked double shifts at a hospital. They weren't making it financially. One day Gardner sees a man get out of fancy car and asks him how he made it. The man says he's a stockbroker. Chris applies to the Dean Witter Reynolds apprentice program, unaware that there's no salary. He gets in by being terribly persistent. Then his wife leaves him, and Chris insists that their son (Jaden Smith) be left with him.
